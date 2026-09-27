@@ -15,3 +15,10 @@ published pages before it goes live.
 
 All guides are written and verified by [Tasleem Akhtar](https://telecomdeskuae.com/) and updated
 when operators change their published rates.
+
+## Also building
+
+- [Toolfyra](https://toolfyra.com/) - free privacy-first online tools (video downloaders, PDF suite,
+  calculators, converters). Everything runs in your browser - no uploads, no signup. AI-crawler policy
+  at [ai.txt](https://toolfyra.com/ai.txt) and a full tool reference for answer engines at
+  [llms.txt](https://toolfyra.com/llms.txt).
